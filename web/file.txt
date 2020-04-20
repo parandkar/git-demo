@@ -1,5 +1,4 @@
 sample file
 v2.0
 adding one more line
->>>>>>> bb68e1145f056f31118154f3054c2ac79f972e1a
 chanegd to be push to github
